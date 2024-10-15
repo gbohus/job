@@ -2,3 +2,14 @@ requests
 beautifulsoup4
 pandas
 numpy
+nltk
+oci
+brotli
+chardet
+streamlit
+plotly
+matplotlib
+networkx
+wordcloud
+Pillow
+futures
