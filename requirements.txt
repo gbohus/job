@@ -1,4 +1,4 @@
-# Data processing and analysis
+requests
+beautifulsoup4
 pandas
 numpy
-
